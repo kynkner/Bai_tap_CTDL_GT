@@ -1,6 +1,7 @@
 Mandatory
 75. Sort Colors - https://leetcode.com/problems/sort-colors/
 Link: https://leetcode.com/problems/sort-colors/submissions/1114177565/
+link(cách 2): https://leetcode.com/problems/sort-colors/submissions/1114881231/
 414. Third Maximum Number - https://leetcode.com/problems/third-maximum-number/
 Link: https://leetcode.com/problems/third-maximum-number/submissions/1114180994/
 1051. Height Checker - https://leetcode.com/problems/height-checker/
