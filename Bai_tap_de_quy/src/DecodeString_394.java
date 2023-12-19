@@ -17,6 +17,7 @@ public class DecodeString_394 {
 
     }
     public static String decodeString(String s) {
+
         StringBuilder result = new StringBuilder();
 
         while (num < s.length() && s.charAt(num) != ']')
@@ -32,6 +33,8 @@ public class DecodeString_394 {
             } else {
                 result.append(s.charAt(num++));
             }
+
+        System.out.println(num);
 
         return result.toString();
     }
