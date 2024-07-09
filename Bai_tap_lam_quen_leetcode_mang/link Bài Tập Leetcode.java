@@ -1,7 +1,7 @@
 Mandatory:
 
 1. Two Sum - https://leetcode.com/problems/two-sum/
---Link: https://leetcode.com/problems/two-sum/description/
+--Link: https://leetcode.com/problems/two-sum/submissions/1104199365/
 136. Single Number - https://leetcode.com/problems/single-number/
 --Link: https://leetcode.com/problems/single-number/submissions/1107073489/
 485. Max Consecutive Ones - https://leetcode.com/problems/max-consecutive-ones/
